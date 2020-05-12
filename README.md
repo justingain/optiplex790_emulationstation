@@ -42,4 +42,4 @@ I have a few consoles that won't work for whatever reason. I've tried every core
 
 # Tools
 I've created a separate file for the tools I use to get the most out of my space.
-View it (here)[https://github.com/justingain/optiplex790_emulationstation/blob/master/tools.md]
+View it [here](https://github.com/justingain/optiplex790_emulationstation/blob/master/tools.md)
