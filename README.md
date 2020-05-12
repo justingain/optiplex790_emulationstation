@@ -40,5 +40,5 @@ I have a few consoles that won't work for whatever reason. I've tried every core
 * FBA
 * Dreamcast
 
-# Tools
+# (Tools)[tools.md]
 I've created a separate file for the tools I use to get the most out of my space
