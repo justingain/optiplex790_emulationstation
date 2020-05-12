@@ -11,6 +11,17 @@ First, the specs for the Optiplex 790 USFF are as follows:
 * 500GB SATA HDD
 * Intel HD Graphics 2000
 
+# Accessories
+Here are some accessories I added to get more out of this:
+* Xbox One Wireless Adapter (It supports 8 Xbox One Controllers according to online)
+* DVI to HDMI adapter - this pc does not have HDMI natively - so I had to get an adapter
+
+# Misc Notes
+* At the moment, I don't think I'm going to need more space since I can only emulate so many consoles on this machine. However, if I do need more space - there is the possibility of replacing the CD/DVD Rom drive with another hard drive since they are sata (I believe)
+* I'd really like to max out the RAM to 8GB to make sure it's running the best it can
+* Overall I'd say performance is decent. With a few setting changes - I can get 60fps in Gamecube fairly easily.
+* One key thing I noticed is OpenGL doesn't work so well on this machine. However, when I switched most to DX11 things worked a bit better. This is critical for RetroArch. Before I switched to DX11 - everything was slow going.
+
 # Emulators
 * OS: Windows 10
 * Frontend: EmulationStation via Retrocake
