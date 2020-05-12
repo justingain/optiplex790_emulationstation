@@ -17,6 +17,8 @@ The steps are as follows:
 4. Once it's done, click file -> save as and save it to a different folder so it doesn't override anything important (I recommend creating a temp or converted folder to hold all of your new bin/cue file that's created
 5. That's it - you're ready to push it to PSX2PSP
 
+One more small note - this will work with any CD based bin/cue files. I was able to convert SegaCD games to a single bin/cue file for easier organization
+
 ### PSX2PSP
 PSX2PSP was originally created to turn PS1 ISO/BIN files to something the PSP could read with all the proper metadata. Instead of that however, we are going to use this tool to convert PS1 bin files that we created with CDmage or downloaded from the internet to .pbp which is compressed a lot more and can save a good amount of room on your hdd. 
 #### Converting Single Disc Files
